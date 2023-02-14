@@ -1,0 +1,218 @@
+16/04/2022, 13:47 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+16/04/2022, 13:47 - Utsav Sinha: float km;
+    scanf("%f",&km);
+    float m=km*1000;
+    float ft=km*3280.84;
+    float in=km*39370.1;
+    float cm=km*100000.0;
+    printf("%.2f m\n",m);
+    printf("%.2f ft\n",ft);
+    printf("%.2f in\n",in);
+    printf("%.2f cm",cm);
+16/04/2022, 17:10 - Aman Kashyap: <Media omitted>
+16/04/2022, 23:49 - Utsav Sinha: 18 Apr- Chem
+19 Apr- Maths
+20 Apr- French
+22 Apr- GA 
+25 Apr- PPS
+17/04/2022, 17:38 - Utsav Sinha: https://youtu.be/1dxsdBr7Sgc
+25/04/2022, 01:44 - Utsav Sinha: Kl mess jayega subha to call krna
+25/04/2022, 01:44 - Utsav Sinha: Mai bhi chalunga
+25/04/2022, 02:06 - Aman Kashyap: 👍🏻
+25/04/2022, 02:17 - Utsav Sinha: Kitna bje jayega??
+25/04/2022, 02:17 - Aman Kashyap: 8 bje
+25/04/2022, 02:17 - Utsav Sinha: 7:30 chalega ??
+25/04/2022, 02:33 - Aman Kashyap: Thik
+26/04/2022, 16:26 - Utsav Sinha: ua7489@srmist
+08/05/2022, 10:56 - Utsav Sinha: Guindy mein hi utarna hai
+08/05/2022, 22:20 - Aman Kashyap: vo9c-pri6-r9g9
+09/05/2022, 13:30 - Utsav Sinha: "GIFT_PJAQDECEKLFMCCNL"
+ https://www.udemy.com/gift/share/?giftId=4587936#:~:text=GIFT_PJAQDECEKLFMCCNL
+09/05/2022, 13:32 - Utsav Sinha: GIFT_PJAQDECEKLFMCCNL
+09/05/2022, 19:46 - Utsav Sinha: https://youtube.com/playlist?list=PLLf6O8XdGj03ktP4MHmIV87pHZHBEUF6f
+10/05/2022, 09:57 - Aman Kashyap: Kaha h?
+10/05/2022, 10:03 - Utsav Sinha: Picche to dekho
+14/05/2022, 17:57 - Aman Kashyap: https://fitgirl-repacks.site/fifa-19/
+17/05/2022, 13:42 - Utsav Sinha: https://skribbl.io/?u7di8KPVYosV
+17/05/2022, 14:37 - Utsav Sinha: https://youtu.be/9hERjlzWSUA
+20/05/2022, 08:43 - Aman Kashyap: Inverse likh raha tu?
+20/05/2022, 08:43 - Utsav Sinha: Ha
+21/05/2022, 14:05 - Aman Kashyap: *Printing Pattern Using Loops*
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+int main()
+{
+    int i,j,k,m,n,x;
+    scanf("%d",&n);
+    k=n;
+    m = n+(n-1);
+    for(i=0;i<m;i++)
+    {
+        for(j=0;j<m;j++)
+        {
+            if(i<=n-1)
+            {        
+                if(i==0)
+                {
+                printf("%d ",k);
+                }
+                if(i>=1)
+                {
+                    if(j<i)
+                    {
+                        printf("%d ",k-j);
+                    }
+                    else if(j>=i && j<m-i)
+                    {
+                        printf("%d ",k-i);
+                    }
+                    else 
+                    {
+                        printf("%d ",(j-k+1)+1);
+                    }
+                }
+            }
+            else if(i==n-1)
+            {
+                if(j<n)
+                {
+                    printf("%d ",k-j);
+                }
+                else
+                {
+                    printf("%d ",(j-k+1)+1);
+                }
+            }
+            else if(i>=n)
+            {
+                x = m-i-1;
+                if(i==m)
+                {
+                printf("%d ",k);
+                }
+                if(j<x)
+                {
+                    printf("%d ",k-j);
+                }
+                else if(j>=x && j<m-x)
+                {
+                    printf("%d ",k-x);
+                }
+                else 
+                {
+                    printf("%d ",(j-k+1)+1);
+                }    
+            }
+        }
+        printf("\n");
+    }
+}
+21/05/2022, 16:57 - Utsav Sinha: Collect all 10 Gully Cricket cards on Google Pay to earn up to ₹201. I'm playing to win, are you? https://gpay.app.goo.gl/seVdMH
+21/05/2022, 17:00 - Utsav Sinha: Collect all 10 Gully Cricket cards on Google Pay to earn up to ₹201. I'm playing to win, are you? https://gpay.app.goo.gl/w3JG7N
+21/05/2022, 17:04 - Aman Kashyap: Collect all 10 Gully Cricket cards on Google Pay to earn up to ₹201. I'm playing to win, are you? https://gpay.app.goo.gl/S3jR3a
+22/05/2022, 22:13 - Aman Kashyap: Pillow bhi daal dena
+22/05/2022, 22:35 - Utsav Sinha: Bol kya hua?
+22/05/2022, 22:36 - Aman Kashyap: Chem 2nd exp m kitna mila h
+22/05/2022, 22:36 - Utsav Sinha: 9
+22/05/2022, 22:36 - Aman Kashyap: Bottle no.
+22/05/2022, 22:36 - Utsav Sinha: 2 sahayad
+22/05/2022, 22:36 - Aman Kashyap: Bhej dena
+22/05/2022, 23:04 - Aman Kashyap: ye add kardena
+22/05/2022, 23:04 - Aman Kashyap: agar khaali 2 slide use kar sakte h toh
+22/05/2022, 23:44 - Utsav Sinha: Thik
+24/05/2022, 11:26 - Aman Kashyap: Sun toh
+24/05/2022, 11:27 - Aman Kashyap: Agar koi class m h toh mera eee wala copy lelene bolna
+24/05/2022, 12:36 - Utsav Sinha: Nai koi nai hai
+24/05/2022, 12:37 - Aman Kashyap: M pps m aaunga chem skip kar raha
+26/05/2022, 20:04 - Utsav Sinha: Bol bol
+26/05/2022, 20:04 - Utsav Sinha: Tera awaaz aa rha hai mereko
+26/05/2022, 20:04 - Aman Kashyap: Khaane jaa raha h?
+26/05/2022, 20:04 - Utsav Sinha: Chal
+26/05/2022, 20:04 - Utsav Sinha: Chalte hai
+27/05/2022, 00:48 - Aman Kashyap: Mess chalega toh call kardena
+27/05/2022, 00:50 - Utsav Sinha: Thik
+28/05/2022, 10:54 - Aman Kashyap: Sir ka spectrochemical series bhej na
+28/05/2022, 10:59 - Utsav Sinha: <Media omitted>
+28/05/2022, 23:19 - Aman Kashyap: <Media omitted>
+28/05/2022, 23:33 - Utsav Sinha: Bc 😳😳
+29/05/2022, 20:04 - Aman Kashyap: <Media omitted>
+29/05/2022, 21:11 - Utsav Sinha: 5965
+06/06/2022, 00:58 - Aman Kashyap: https://fatdino.itch.io/
+10/06/2022, 22:39 - Aman Kashyap: Kal chalega breakfast 7 baje
+10/06/2022, 22:40 - Utsav Sinha: Neend kha to ha
+10/06/2022, 22:40 - Utsav Sinha: Khula*
+10/06/2022, 22:41 - Aman Kashyap: 8:30 ko toh jaa hi raha h kya
+10/06/2022, 22:41 - Utsav Sinha: haa
+10/06/2022, 22:41 - Utsav Sinha: Whi neend khulne penhai
+10/06/2022, 22:41 - Aman Kashyap: Uthega toh bata dena
+10/06/2022, 22:41 - Utsav Sinha: Kk
+29/06/2022, 12:27 - Aman Kashyap: Mess chalega?
+29/06/2022, 12:28 - Utsav Sinha: Ni jaa thoda Dr baad aaungaa
+29/06/2022, 12:33 - Aman Kashyap: Tab call karna
+29/06/2022, 14:27 - Aman Kashyap: <Media omitted>
+01/07/2022, 08:19 - Utsav Sinha: <Media omitted>
+01/07/2022, 10:05 - Aman Kashyap: <Media omitted>
+01/07/2022, 10:06 - Utsav Sinha: Kon likha hai
+01/07/2022, 10:06 - Utsav Sinha: ??
+01/07/2022, 10:08 - Aman Kashyap: Joes
+21/07/2022, 12:25 - Utsav Sinha: Pahuch gya??
+21/07/2022, 12:36 - Aman Kashyap: Haan
+21/07/2022, 12:41 - Utsav Sinha: Kab ?
+21/07/2022, 12:49 - Aman Kashyap: Subha 5 baje
+21/07/2022, 14:16 - Utsav Sinha: Oo
+02/08/2022, 20:26 - Aman Kashyap: Sun toh
+02/08/2022, 20:26 - Aman Kashyap: Aur extra kya kya laayega tu hostel m
+02/08/2022, 20:34 - Utsav Sinha: Kuch ni sab to hai
+02/08/2022, 20:35 - Utsav Sinha: Ghar se bas nimki wagera launga
+02/08/2022, 20:35 - Aman Kashyap: kuch aur kaam aane layak
+02/08/2022, 20:36 - Utsav Sinha: Ni
+02/08/2022, 20:37 - Aman Kashyap: controller le aana bas kabhi bhi kaam pad sakta h
+02/08/2022, 20:37 - Utsav Sinha: Controller mera wala bhi kharab ho gya
+02/08/2022, 20:37 - Utsav Sinha: Aur Logitech wala bhaiya Bangalore leke chale gye
+02/08/2022, 20:44 - Aman Kashyap: nice
+15/08/2022, 20:13 - Utsav Sinha: Pahuch gya??
+15/08/2022, 21:09 - Aman Kashyap: Haan bhai
+19/08/2022, 00:22 - Aman Kashyap: <Media omitted>
+19/08/2022, 00:22 - Aman Kashyap: <Media omitted>
+23/08/2022, 12:09 - Utsav Sinha: https://drive.google.com/drive/folders/1BD9aapHj5lI9D9dadq0fgFtQrrLqlUbY?usp=sharing
+30/08/2022, 21:27 - Utsav Sinha: Bol Bhai kya hua
+05/09/2022, 08:04 - Utsav Sinha: <Media omitted>
+05/09/2022, 10:22 - Utsav Sinha: <Media omitted>
+14/09/2022, 00:05 - Utsav Sinha: https://meet.google.com/tut-xgdp-ssg
+14/09/2022, 00:14 - Utsav Sinha: https://jamboard.google.com/d/1P3GB3cDavdzUeXUwZJ44VWijFDMoUzvJOvAFAFGKjbs/edit?usp=sharing
+16/09/2022, 12:06 - Aman Kashyap: Paani lete aana
+16/09/2022, 13:52 - Aman Kashyap: Saale muje mention nahi kiyaa
+16/09/2022, 13:55 - Utsav Sinha: Bhai Tera aa hi ni aa rha tha
+16/09/2022, 13:55 - Utsav Sinha: Naam
+16/09/2022, 14:02 - Aman Kashyap: Kaise bhai
+04/10/2022, 07:34 - Aman Kashyap: Week 4,5 bro
+04/10/2022, 09:41 - Utsav Sinha: Ye kya hai bhai?
+04/10/2022, 09:45 - Aman Kashyap: Oodp
+28/10/2022, 20:57 - Utsav Sinha: <Media omitted>
+28/10/2022, 20:57 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:11 - Aman Kashyap: Oodp bhej na
+04/11/2022, 01:12 - Utsav Sinhitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+04/11/2022, 01:12 - Utsav Sinha: <Media omitted>
+06/11/2022, 14:28 - Utsav Sinha: <Media omitted>
+13/11/2022, 11:07 - Utsav Sinha: aman bhai oodp week 10 bhej do na
+13/11/2022, 11:44 - Aman Kashyap: Jay bhej raha h
+15/11/2022, 05:01 - Aman Kashyap: Merko bhi utha dena 8 baje se pahele
+16/11/2022, 19:21 - Utsav Sinha: <Media omitted>
+16/11/2022, 22:58 - Aman Kashyap: <Media omitted>
+16/11/2022, 22:58 - Aman Kashyap: Ye thik h na?
+16/11/2022, 22:59 - Utsav Sinha: Haa shi h
+01/01/2023, 11:34 - Your security code with Utsav Sinha changed. Tap to learn more.
+09/01/2023, 17:27 - Aman Kashyap: <Media omitted>
+22/01/2023, 22:05 - Utsav Sinha: Aman bhai kl controller le aana
+22/01/2023, 22:05 - Utsav Sinha: Mereko de Dena class mein
+22/01/2023, 22:05 - Aman Kashyap: Ok
